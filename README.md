@@ -6,5 +6,5 @@ The quickest way to get started is to use
 
 ``` bash 
 create-react-project 
-```.
+```
 
