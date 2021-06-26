@@ -2,5 +2,5 @@
 <p>Simple todolist using ReactJs</p>
 
 <h1>Getting Started</h1>
-<p>The quickest way to get started is to use create-react-project.</p>
+<p>The quickest way to get started is to use ``` bash create-react-project ```.</p>
 
