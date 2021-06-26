@@ -8,3 +8,11 @@ The quickest way to get started is to use
 create-react-project 
 ```
 
+``` bash
+npm install -g create-react-project
+create-react-project the-best-app-ever
+cd the-best-app-ever
+npm install
+npm start
+```
+
