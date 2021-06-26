@@ -9,10 +9,11 @@ create-react-project
 ```
 
 ``` bash
-npm install -g create-react-project
-create-react-project the-best-app-ever
-cd the-best-app-ever
+npx create-react-app todolist
+cd todolist
 npm install
 npm start
 ```
+
+Now open http://localhost:8080.
 
